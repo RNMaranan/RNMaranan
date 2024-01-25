@@ -1,4 +1,4 @@
-![logo](https://github.com/RNMaranan/GithubBanner/blob/main/MyGithubBanner.png)
+![logo](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)
 <h1 align="center">Hi 👋, I'm Ralph Neil Maranan</h1>
 <h3 align="center">An Aspiring Mechatronics Engineer from the Philippines🤖</h3>
 
