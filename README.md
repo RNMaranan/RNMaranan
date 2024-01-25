@@ -1,8 +1,8 @@
-![logo](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)
+![logo](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 <h1 align="center">Hi 👋, I'm Ralph Neil Maranan</h1>
 <h3 align="center">An Aspiring Mechatronics Engineer from the Philippines🤖</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/10/94/81109482ca158155c7945910d5623d6d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RNMaranan&label=Profile%20views&color=0e75b6&style=flat" alt="RNMaranan" /> </p>
 
