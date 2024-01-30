@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RNMaranan&theme=darkhub" alt="RNMaranan" /></a> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/10/94/81109482ca158155c7945910d5623d6d.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/10/94/81109482ca158155c7945910d5623d6d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RNMaranan&label=Profile%20views&color=0e75b6&style=flat" alt="RNMaranan" /> </p>
 
