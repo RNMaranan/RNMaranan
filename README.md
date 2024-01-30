@@ -1,7 +1,8 @@
 ![logo](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ayoooo!;+This+is+Ralph+Neil+Maranan;" style="color: yellow;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=40&center=true&vCenter=true&width=700&height=70&duration=4000&lines=AYOOOO!;+THIS+IS+RALPH+NEIL+MARANAN;" style="color: yellow;" />
 </h1>
+
 <h3 align="center">An Aspiring Mechatronics Engineer from the Philippines🤖</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RNMaranan&theme=darkhub" alt="RNMaranan" /></a> </p>
 
