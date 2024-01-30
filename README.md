@@ -14,7 +14,8 @@
 <p align="left">
 <a href="https://www.facebook.com/ralphneil.maranan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Ralph Neil Maranan" height="30" width="40" /></a>
 <a href="https://instagram.com/mrnn.rlph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnn.rlph" height="30" width="40" /></a>
-  <a href="https://twitter.com/mrnnralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnn.rlph" height="30" width="40" /></a>
+<a href="https://twitter.com/mrnnralph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnn.rlph" height="30" width="40" /></a>
+<a href="https://discord.gg/rlphhh#4054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rlphhh#4054" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
