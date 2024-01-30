@@ -15,7 +15,7 @@
   
 - 📨 How to reach me? **ralphneilmaranan7@gmail.com**
 
-- 👾 Fun fact **I am an introvert who wants to explore new things**
+- 👾 Fun fact about me: **I am an introvert who wants to explore new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
