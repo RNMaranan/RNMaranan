@@ -1,7 +1,7 @@
 ![logo](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 <h1 align="center">Ralph Neil Maranan</h1>
 <h3 align="center">An Aspiring Mechatronics Engineer from the Philippines🤖</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RNMaranan" alt="RNMaranan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RNMaranan" alt="RNMaranan" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/10/94/81109482ca158155c7945910d5623d6d.gif">
 
