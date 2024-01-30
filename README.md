@@ -21,8 +21,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNMaranan&show_icons=true&locale=en&layout=compact" alt="RNMaranan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RNMaranan&show_icons=true&locale=en" alt="RNMaranan" /></p>
+<div style="background-color: #0D1117; padding: 20px; border-radius: 10px; overflow: hidden;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RNMaranan&" alt="RNMaranan" /></p>
+  <img style="float: left; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=RNMaranan&show_icons=true&locale=en&theme=dark" alt="RNMaranan" />
+
+  <img style="float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=RNMaranan&theme=dark" alt="RNMaranan" />
+
+</div>
+
+
+
+
+
