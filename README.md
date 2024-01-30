@@ -22,12 +22,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div style="display: flex; background-color: #0D1117; padding: 20px; border-radius: 10px; overflow: hidden;">
-
-  <img style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=RNMaranan&show_icons=true&locale=en&theme=dark" alt="RNMaranan" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RNMaranan&theme=dark" alt="RNMaranan" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RNMaranan&show_icons=true&locale=en&theme=dark" height="165" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RNMaranan&theme=dark" height="165" alt="streak graph"  />
 </div>
 
 
