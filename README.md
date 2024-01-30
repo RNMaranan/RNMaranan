@@ -9,7 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RNMaranan&label=Profile%20views&color=0e75b6&style=flat" alt="RNMaranan" /> </p>
 
 - 📖 I'm currently learning **Robotics 2🤖**
+  
 - 📨 How to reach me? **ralphneilmaranan7@gmail.com**
+
 - 👾 Fun fact **I am an introvert who wants to explore new things**
 
 <h3 align="left">Connect with me:</h3>
